@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alumis.Collections.RedBlackTree", "Alumis.Collections.RedBlackTree\Alumis.Collections.RedBlackTree.csproj", "{177F3D66-DE2F-4FAA-8076-FC62D2EE91BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177F3D66-DE2F-4FAA-8076-FC62D2EE91BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177F3D66-DE2F-4FAA-8076-FC62D2EE91BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177F3D66-DE2F-4FAA-8076-FC62D2EE91BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177F3D66-DE2F-4FAA-8076-FC62D2EE91BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637EEF47-953C-45DD-A523-DF16BF3C969E}
+	EndGlobalSection
+EndGlobal

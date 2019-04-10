@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Alumis.Collections</RootNamespace>
+    <Authors>Emil Müller</Authors>
+    <Company>Alumis AS</Company>
+    <Copyright>Alumis AS 2019</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/alumis/Alumis.Collections.RedBlackTree/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/alumis/Alumis.Collections.RedBlackTree</RepositoryUrl>
+    <PackageTags>red-black tree</PackageTags>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
